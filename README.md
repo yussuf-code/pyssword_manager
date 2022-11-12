@@ -1,1 +1,1 @@
-# a simple password manager made with pyhon, uses json to store passwords
+# a simple password manager made with python, uses json to store passwords.
